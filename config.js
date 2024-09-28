@@ -23,7 +23,7 @@ module.exports = {
   ANTIBOT_MSG: process.env.ANTIBOT_MSG || "",
   ANTIWORD_MSG: process.env.ANTIWORD_MSG || "",
   ALIVE_DATA : process.env.ALIVE_DATA || "",
-  SESSION_ID: process.env.SESSION_ID || '',
+  SESSION_ID: process.env.SESSION_ID || 'Jarvis_3082_0959_fd20_5e8b_5879_1d32_6a6b_f41d',
   LANG: process.env.LANG || 'EN',
   SETVV: process.env.SETVV || 'DM',
   ELEVENLABS: process.env.ELEVENLABS,
